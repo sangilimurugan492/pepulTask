@@ -1,0 +1,4 @@
+#Mon Sep 12 12:02:33 IST 2022
+base.0=/Users/gmc-sangili.murugan/Downloads/WSETask-main/PepulTask/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
